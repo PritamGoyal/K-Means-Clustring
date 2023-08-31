@@ -178,22 +178,3 @@ K-Means clustering is the most common unsupervised machine learning algorithm. I
 
 5.	Clustering languages
 
-
-===============================================================================
-
-
-## 10. References
-
-The work done in this project is inspired from following books and websites:-
-
-1.	Udemy course – Machine Learning – A Z by Kirill Eremenko and Hadelin de Ponteves
-
-2.	https://en.wikipedia.org/wiki/K-means_clustering
-
-3.	https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html
-
-4.	https://www.datacamp.com/community/tutorials/k-means-clustering-python
-
-5.	https://www.datascience.com/blog/k-means-clustering
-
-6.	https://acadgild.com/blog/k-means-clustering-algorithm
